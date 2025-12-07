@@ -172,7 +172,7 @@ streamlit run app.py
 
 To view the dashboard online with no setup:
 
-👉 Deployment link will appear here once hosted on Streamlit Cloud.
+https://appuct-metrics-dashboard-qg46qezwnzbmyctyy9aiaz.streamlit.app/
 
 ---
 
